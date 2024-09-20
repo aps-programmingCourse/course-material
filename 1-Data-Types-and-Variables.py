@@ -18,13 +18,13 @@
 # print('123' + '2')
 
 ## Variables
-name = "Jason"
-numbers = 123 + 2
-print(name)
-print(numbers)
+# name = "Jason"
+# numbers = 123 + 2
+# print(name)
+# print(numbers)
 
 ## Concatenation
-print("Hello " + name)
+# print("Hello " + name)
 
 ### Exercise
 
