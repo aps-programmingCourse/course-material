@@ -5,7 +5,7 @@
 # Comments are ignored by the interpreter. They are generally used to mark up your code to explain why you coded something the way you did.
 
 ## Numbers
-# 123 + 2
+123 + 2
 
 ## Strings
 # "This is a string"
