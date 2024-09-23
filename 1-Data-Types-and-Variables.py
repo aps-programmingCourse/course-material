@@ -8,11 +8,11 @@
 123 + 2
 
 ## Strings
-# "This is a string"
+"This is a string"
 # Anything you put in quotes is a string.
 
 ## Print Command
-# print("Hello World")
+## print("Hello World")
 
 ## Numbers as Strings
 # print('123' + '2')
