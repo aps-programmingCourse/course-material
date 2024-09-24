@@ -1,7 +1,7 @@
 ### Comments, Numbers, Strings, Print, Variables
 
 ## Comments
-# This is a comment
+# This is a comment. Anything after a # sign is treated as a comment.
 # Comments are ignored by the interpreter. They are generally used to mark up your code to explain why you coded something the way you did.
 
 ## Numbers
