@@ -1,2 +1,2 @@
 # course-material
-This is where all of the files for the programming course will be housed. 
+This is where all of the lesson files are for the programming course.
