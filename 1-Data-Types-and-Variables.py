@@ -25,8 +25,3 @@
 
 ## Concatenation
 # print("Hello " + name)
-
-### Exercise
-
-# 1. Create a variable called name and assign it your name.
-# 2. Create a print statement that prints "Hello " + your name variable.   
