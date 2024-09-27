@@ -8,7 +8,7 @@
 ## Line Breaks
 # print("Hello World")
 # print("Hello World")
-# print("Hello World\nHello World")
+# print("Hello World\nHow are you today?")
 
 ## Length of a String
 sayHi = "Hello World"
@@ -24,25 +24,24 @@ sayHi = "Hello World"
 # print(sayHi[-1])
 
 # print(sayHi[0:5])
-# When printing a range, the last number is not included, so you'll need to add 1 to the end of the range.
-# In cases where you are starting from the beginning of the string, you can leave the first number blank.
+# When printing a range, the last number is not included, 
+# so you'll need to add 1 to the end of the range.
+# In cases where you are starting from the beginning of 
+# the string, you can leave the first number blank.
 # print(sayHi[:5])
 # print(sayHi[6:])
 # print(sayHi[-5:])
 
 ## Finding a String
 # print(sayHi.find("World"))
-# print(sayHi.find("o"))
-# 
 # firstO = sayHi.find("o")
 # print(sayHi.find("o", firstO + 1))
 
 ## Replacing a String
 # print(sayHi.replace("World", "Universe"))
-# Strings are immutable, so you can't change the original string. You can only create a new string with parts of an existing string. 
+# Strings are immutable, so you can't change the 
+# original string. You can only create a new string 
+# with parts of an existing string. 
 
 ## Split Strings
 # print(sayHi.split(" "))
-
-## Excercise
-# Write code that prints "llo Wor," from the variable sayHi
