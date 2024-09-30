@@ -3,13 +3,20 @@
 # pre-written code that you can use to speed up your 
 # coding time. We'll be using these later in this file.
 
-# import math
-# import numpy
+import math
+import numpy
 
 
 ## Arithmetic and Operators
 
-# So in the first lesson, we learned about the print function, and that you need to use it to see the output of your code. That's not entirely true, though. You can go to the shell and type in "python3" and enter your code there and it will display as well. For most situations, unless your doing a quick calculation, you'll probably want to have your code in a file and then executed.
+# So in the first lesson, we learned about the print 
+# function, and that you need to use it to see the 
+# output of your code. That's not entirely true, 
+# though. You can go to the shell and type in 
+# "python3" and enter your code there and it will 
+# display as well. For most situations, unless your 
+# doing a quick calculation, you'll probably want to 
+# have your code in a file and then executed.
 
 # Addition  
 
@@ -45,11 +52,16 @@
 
 # print(2 + 3 * 4)
 
-# The math library is a collection of useful mathematical functions. The same is true for the numpy library. NumPy is used more in scientific computing. I believe NumPy has everyting the math library, plus more. NumPy is a 3rd party library, and the math library comes with Python.
+# The math library is a collection of useful mathematical 
+# functions. The same is true for the numpy library. 
+# NumPy is used more in scientific computing. I believe 
+# NumPy has everyting the math library, plus more. NumPy 
+# is a 3rd party library, though, and the math library 
+# comes with Python.
 
-# print(math.sqrt(4))
-# print(numpy.sqrt(4))
+print(math.sqrt(4))
+print(numpy.sqrt(4))
 # 
-# print(math.pi
+# print(math.pi)
 # 
 # print(numpy.add(3, 3))
