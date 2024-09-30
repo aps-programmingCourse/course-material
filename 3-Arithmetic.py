@@ -1,11 +1,13 @@
 ## Libraries
-# We are importing two libraries. Libraries are a set of pre-written code that you can use to speed up your coding time. We'll be using these later in this file.
+# We are importing two libraries. Libraries are a set of 
+# pre-written code that you can use to speed up your 
+# coding time. We'll be using these later in this file.
 
 # import math
 # import numpy
 
 
-## Arithmatic and Operators
+## Arithmetic and Operators
 
 # So in the first lesson, we learned about the print function, and that you need to use it to see the output of your code. That's not entirely true, though. You can go to the shell and type in "python3" and enter your code there and it will display as well. For most situations, unless your doing a quick calculation, you'll probably want to have your code in a file and then executed.
 
@@ -51,8 +53,3 @@
 # print(math.pi
 # 
 # print(numpy.add(3, 3))
-
-
-## Exercise
-
-# Print the square root of 9 + the square root of 16. 
