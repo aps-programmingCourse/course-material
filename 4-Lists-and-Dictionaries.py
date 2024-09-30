@@ -35,6 +35,3 @@
 # bills["Phone"] = 100
 # 
 # print(bills)
-
-## Exercise
-# Create a list of your favorite movies and print it to the console. Make sure it has at least 5 elements. Then print your favorite movie plus the text " is my favorite movie."
