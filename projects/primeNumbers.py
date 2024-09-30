@@ -1,4 +1,4 @@
-import time, numpy
+import time
 
 pn = 2
 i = pn - 1
