@@ -3,8 +3,8 @@
 # pre-written code that you can use to speed up your 
 # coding time. We'll be using these later in this file.
 
-import math
-import numpy
+# import math
+# import numpy
 
 
 ## Arithmetic and Operators
@@ -59,8 +59,14 @@ import numpy
 # is a 3rd party library, though, and the math library 
 # comes with Python.
 
-print(math.sqrt(4))
-print(numpy.sqrt(4))
+# You will need to download and install the numpy module 
+# in order for this code to work. To do that, click on
+# the terminal and type in "pip install numpy". If you 
+# do that and it still doesn't work, try doing it this 
+# way: ~\AppData\Local\Programs\Python\Python312\python.exe -m pip install numpy
+
+# print(math.sqrt(4))
+# print(numpy.sqrt(4))
 # 
 # print(math.pi)
 # 
