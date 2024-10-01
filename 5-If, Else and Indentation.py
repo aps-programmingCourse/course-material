@@ -3,7 +3,7 @@
 ## If/Else Statements and Indentation
 # Python uses indentation to determine a block of code. If you don't indent, Python will give you an error.
 
-# x= 10
+# x = 10
 
 # if x > 5:
 #     print("x is greater than 5")
@@ -37,4 +37,3 @@
 #   You will need to use the random library
 #   You will need to use the input() to get the user's choice
 #   You will need to use the print() command to show the user what is going on with your program.
-#   You will need to use a lot of if/elif/else statements to compare the user's choice to the computer's choice.
