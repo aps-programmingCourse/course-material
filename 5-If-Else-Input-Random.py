@@ -9,7 +9,7 @@
 # action if the if statement isn't true. Elif is the
 # same thing as else if. 
 
-# x = 10
+# x = 8
 
 # if x > 5:
 #     print("x is greater than 5")
@@ -17,6 +17,16 @@
 #     print("x is equal to 5")
 # else:
 #     print("x is less than 5")
+
+## Boolean Operators
+
+# Boolean operators like "or" and "and" make it possible
+# to check if multiple things are true in one if statement.
+# Let's take a look at the last if statement we used and
+# add the "and" operator
+
+# if x > 5 and x < 10:
+#     print("x is greater than 5 and less than 10")
 
 # drinks = ["Coffee", "Tea", "Water", "Juice", "Soda"]
 # if "coffee" in drinks:
