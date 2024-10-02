@@ -1,8 +1,13 @@
 # import random
 
-## If/Else Statements and Indentation
+## If/Else Statements, Boolean Operators and Indentation
 # Python uses indentation to determine a block of code. 
 # If you don't indent, Python will give you an error.
+
+# When you want to check if something is true, you use
+# an if statement. Else is used if you want to do an 
+# action if the if statement isn't true. Elif is the
+# same thing as else if. 
 
 # x = 10
 
