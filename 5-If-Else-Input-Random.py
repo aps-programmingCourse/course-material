@@ -14,7 +14,6 @@
 #     print("x is less than 5")
 
 # drinks = ["Coffee", "Tea", "Water", "Juice", "Soda"]
-
 # if "coffee" in drinks:
 #     print("Yay!")
 # else:
@@ -26,7 +25,9 @@
 # if statement we created. Let's say we want to ask them 
 # what their favorite drink was and compare it to our list. 
 
-# if input("What's your favorite drink? ") in drinks:
+# favDrink = input("What's your favorite drink? ")
+
+# if favDrink in drinks:
 #     print("Yay!")
 # else:
 #     print("How sad")
