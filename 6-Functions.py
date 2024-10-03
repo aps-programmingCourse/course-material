@@ -36,7 +36,3 @@
 #     print('Sum: ', sum)
 
 # add_numbers(2 + 243, 3 + 4)
-
-## Project
-
-# Expand your Rock, Paper, Scissors code and make it so users can play mutiple rounds without having to run the script a second time.
