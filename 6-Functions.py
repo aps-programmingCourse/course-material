@@ -1,7 +1,10 @@
 ## Functions
 # import random
 
-# Functions are a way to reuse and organize code. Let's say we have some code and we want to use it multiple times. In this instance, we have to run the script multiple times if we want to play the game multiple times
+# Functions are a way to reuse and organize code. Let's say 
+# we have some code and we want to use it multiple times. 
+# In this instance, we have to run the script multiple times 
+# if we want to play the game multiple times.
 
 # guess = int(input("Guess a number between 1 and 10: "))
 # computerNumber = random.randint(1, 10)
