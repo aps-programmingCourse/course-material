@@ -1,12 +1,12 @@
-# class Person:
-#     age = 24
-#     name = "John Doe"
-#     location = "Toronto, Ontario"
+class Person:
+    age = 24
+    name = "John Doe"
+    location = "Toronto, Ontario"
 
-# john = Person()
-# print(john.age)
-# print(john.name)
-# print(john.location)
+john = Person()
+print(john.age)
+print(john.name)
+print(john.location)
 
 ####################################################
 
