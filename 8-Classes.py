@@ -38,24 +38,25 @@
 # You'll notice these attributes are set to whatever the arguments
 # are in the __init__ method
 
-class Character:
-    def __init__(self, h, d, s):
-        self.health = h
-        self.damage = d
-        self.speed = s
+# class Character:
+#     def __init__(self, h, d, s):
+#         self.health = h
+#         self.damage = d
+#         self.speed = s
 
-warrior = Character(100, 50, 10)
-ninja = Character(80, 40, 40)
+# warrior = Character(100, 50, 10)
+# ninja = Character(80, 40, 40)
 
 # This is printing an "f-string." This is another way of formatting
 # text. With f-strings, you can put expressions directly in the 
 # string. This is the same as printing "Warrior Speed: " + warrior.speed
 
 # print(f"Warrior Speed: {warrior.speed}")
-print(f"Ninja Damage: {ninja.damage}")
-
+# print(f"Ninja Damage: {ninja.damage}")
 
 ####################################################
+
+# Here's another example
 
 # class Salesperson:
 #     def __init__(self, firstName, lastName):
@@ -70,6 +71,6 @@ print(f"Ninja Damage: {ninja.damage}")
 #     def salesReport(self):
 #         print(f"My total in sales is ${self.sales}!")
 
-# salesperson1 = Salesperson("Nick", "McCullum")
-# salesperson1.makeSale(600)
-# salesperson1.salesReport()
+# john = Salesperson("John", "Doe")
+# john.makeSale(600)
+# john.salesReport()
