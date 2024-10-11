@@ -27,8 +27,8 @@
 # Tuples are very similar to lists, but they are immutable,
 # so you can't change them after they're made.
 
-myTuple = ("Spiderman", 18, "Spidey Sense")
-anotherTuple = "Iron Man", 39, "Iron Man Suit"
+# myTuple = ("Spiderman", 18, "Spidey Sense")
+# anotherTuple = "Iron Man", 39, "Iron Man Suit"
 
 # Notice that the first example uses parentheses and the
 # second one doesn't, but they're both considered tuples.
