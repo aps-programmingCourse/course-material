@@ -15,7 +15,7 @@ sayHi = "Hello World"
 # len(sayHi)
 # print(len(sayHi))
 
-## Strings as Arrays
+## Strings as Lists
 
 # sayHi[0]
 
