@@ -54,7 +54,7 @@
 # print(f"Warrior Speed: {warrior.speed}")
 # print(f"Ninja Damage: {ninja.damage}")
 
-####################################################
+#######################################################################
 
 # Here's another example
 
