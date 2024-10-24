@@ -43,7 +43,8 @@
 # print(15 % 4)
 
 # Floor Division
-# Floor division is the same as division, but it drops the decimal. It's the same as math.floor()
+# Floor division is the same as division, but it drops the 
+# decimal. It's the same as math.floor()
 
 # print(15 // 4)
  
@@ -61,7 +62,7 @@
 
 # You will need to download and install the numpy module 
 # in order for this code to work. To do that, click on
-# the terminal and type in "pip install numpy". If you 
+# the terminal and type in "pip3 install numpy". If you 
 # do that and it still doesn't work, try doing it this 
 # way: ~\AppData\Local\Programs\Python\Python312\python.exe -m pip install numpy
 
