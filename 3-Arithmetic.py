@@ -6,6 +6,11 @@
 # import math
 # import numpy
 
+# You will need to download and install the numpy module 
+# in order for this code to work. To do that, click on
+# the terminal and type in "pip3 install numpy". If you 
+# do that and it still doesn't work, try doing it this 
+# way: ~\AppData\Local\Programs\Python\Python312\python.exe -m pip install numpy
 
 ## Arithmetic and Operators
 
@@ -59,12 +64,6 @@
 # NumPy has everyting the math library, plus more. NumPy 
 # is a 3rd party library, though, and the math library 
 # comes with Python.
-
-# You will need to download and install the numpy module 
-# in order for this code to work. To do that, click on
-# the terminal and type in "pip3 install numpy". If you 
-# do that and it still doesn't work, try doing it this 
-# way: ~\AppData\Local\Programs\Python\Python312\python.exe -m pip install numpy
 
 # print(math.sqrt(4))
 # print(numpy.sqrt(4))
