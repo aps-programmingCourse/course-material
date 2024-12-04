@@ -30,7 +30,6 @@ def playAgain(user_score, computer_score):
 
     print("User: " + str(user_score) + "     Computer: " + str(computer_score))
     if input("Do you want to play again? y or n? ") == "y":
-        print()
         rockPaperScissors(user_score, computer_score)
 
 rockPaperScissors(0,0)
