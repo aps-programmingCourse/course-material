@@ -25,14 +25,12 @@ def rockPaperScissors(user_score, computer_score):
         quit()
     else:
         print("Please type either 'rock', 'paper', or 'scissors' to play or 'close' to close: ")
-        print  ()
         rockPaperScissors(user_score, computer_score)
         
 def playAgain(user_score, computer_score):
 
     print("User: " + str(user_score) + "     Computer: " + str(computer_score))
     if input("Do you want to play again? y or n? ") == "y":
-        print()
         rockPaperScissors(user_score, computer_score)
 
 rockPaperScissors(0,0)

@@ -1,4 +1,4 @@
-
+import random
 
 def rockPaperScissors(user_score, computer_score):
 
