@@ -1,4 +1,5 @@
-## Write code that will print out the locker number for john
+# Write code to assign one more user and their values, and then print out their locker number using
+# a print statement.
 
 class Student:
     def __init__(self, gradePercent, absences, locker, graduationYear):
