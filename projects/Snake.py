@@ -8,7 +8,7 @@ delay = 0.1
 score = 0
 highScore = 0
 
-# Set up the screem
+# Set up the screen
 wn = turtle.Screen()
 wn.title("snake")
 wn.bgcolor("green")
@@ -39,10 +39,11 @@ scoreTurtle = turtle.Turtle()
 scoreTurtle.speed(10)
 scoreTurtle.color("white")
 scoreTurtle.penup()
+scoreTurtle.sety(250)
 scoreTurtle.hideturtle()
-scoreTurtle.write("score: o high score:o", align="center", font=("courier", 24, "normal"))
+scoreTurtle.write("score: 0   high score: 0", align="center", font=("courier", 24, "normal"))
 
-# Functios
+# Functions
 def move():
     if snakeHead.direction == "up":
         y = snakeHead.ycor()
