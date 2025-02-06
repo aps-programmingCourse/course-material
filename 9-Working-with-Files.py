@@ -9,7 +9,8 @@
 # 'r' mode.
 # openGroceriesFile = open("groceries", "r")
 
-# All we've done is open the file. We haven't read anything from it yet. To do that, we need to use the read() method.
+# All we've done is open the file. We haven't read anything from it yet. 
+# To do that, we need to use the read() method.
 # The read() method returns the contents of the file as a string.
 # readGroceriesText = openGroceriesFile.read()
 
